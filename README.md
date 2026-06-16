@@ -10,7 +10,7 @@
 
 前往 [Releases](https://github.com/potatoniniViber/water-buddy/releases/latest) 下载最新版：
 
-- `喝水提醒-便携版-1.0.0.exe`：无需安装，下载后直接运行。
+- `water-buddy.exe`：无需安装，下载后直接运行。
 - `SHA256SUMS.txt`：用于校验下载文件完整性。
 
 > 当前版本未购买 Windows 代码签名证书。首次运行时，Windows 可能显示 SmartScreen 提示。请确认文件来自本仓库的 Releases 页面，再点击“更多信息”与“仍要运行”。
